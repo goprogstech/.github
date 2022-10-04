@@ -1,4 +1,4 @@
-# HEY, this is #goprogstech
+# Hey, this is #goprogs
 
 <h3 align="left">Connect with us ✨</h3>
 <p align="left">
