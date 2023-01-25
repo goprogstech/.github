@@ -1,5 +1,7 @@
 # Hey, this is #goprogs
 
+<p>We believe that innovation is most critical to the heart of any successful corporation in the smart technological world.</br>Transforming ideas into vision, Feed your imagination with #goprogs</p>
+
 <h3 align="left">Connect with us ✨</h3>
 <p align="left">
 <a href="https://www.linkedin.com/company/goprogs" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="qaisark" width="32" /></a>
